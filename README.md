@@ -1,2 +1,2 @@
 # mycodeM69
-[cobe] (program01.py)
+[cobe](program01.py)
